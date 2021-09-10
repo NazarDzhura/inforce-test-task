@@ -6,8 +6,7 @@
 	`npm start` or `yarn start`		 
 
 #### Fixing errors:
-* To fix __'react-scripts' is not recognized as an internal or external command__ when trying to run client do the following:
-	* `cd client`
-	  `npm install react-scripts --save`
+* To fix __'react-scripts' is not recognized as an internal or external command__ when trying to run app do the following:
+	* `npm install react-scripts --save`
 
 
